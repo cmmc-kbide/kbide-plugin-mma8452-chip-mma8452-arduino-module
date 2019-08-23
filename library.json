@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-mma8452-chip-mma8452-arduino-module",
+  "title": "mma8452-chip-mma8452-arduino-module",
+  "keywords": "mma8452-chip-mma8452-arduino-module, esp32, esp8266, arduino",
+  "description": "mma8452-chip-mma8452-arduino-module plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mma8452-chip-mma8452-arduino-module/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mma8452-chip-mma8452-arduino-module/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
